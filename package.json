@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "url": "https://github.com/mayankshekhar03/bixby-node.git"
 }
