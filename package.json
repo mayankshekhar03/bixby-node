@@ -11,5 +11,13 @@
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   },
-  "url": "https://github.com/mayankshekhar03/bixby-node.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankshekhar03/bixby-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mayankshekhar03/bixby-node/issues"
+  },
+  "homepage": "https://github.com/mayankshekhar03/bixby-node#readme",
+  "devDependencies": {}
 }
